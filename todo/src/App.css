@@ -1,0 +1,43 @@
+body {
+  font-family: sans-serif;
+  margin: 3rem;
+  background-color: #dfdfdf;
+}
+.openModalBtn {
+  font: inherit;
+  padding: 0.5rem 1.5rem;
+  cursor: pointer;
+  border-radius: 5px;
+  background-color: #5a31f4;
+  color: white;
+  border: 1px solid #5a31f4;
+  margin: 0 1rem;
+}
+.openModalBtn:hover {
+  background-color: #8665ff;
+  border-color: #5a31f4;
+}
+.openModalBtn-highlight {
+  background-color: transparent;
+  color: #8665ff;
+}
+.openModalBtn-highlight:hover {
+  background-color: #dcd3ff;
+}
+.card {
+  background-color: white;
+  border-radius: 4px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+  padding: 1rem;
+  width: 20rem;
+  margin-top: 10px;
+}
+.card-content {
+  display: flex;
+  justify-content: space-between;
+}
+.todo-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
