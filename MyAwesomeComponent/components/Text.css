@@ -1,0 +1,13 @@
+.text{
+    font-size: 20px;
+    color: black;
+}
+.small{
+    font-size: 12px;
+}
+.medium{
+    font-size: 14px;
+}
+.large{
+    font-size: 18px;
+}

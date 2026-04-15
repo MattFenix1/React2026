@@ -1,0 +1,17 @@
+.box{
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 20px;
+    width:100%;
+    text-align: center;
+    background-color: #fff;
+}
+.small{
+    width: 25%;
+}
+.medium{
+    width: 50%;
+}
+.large{
+    width: 75%;
+}
